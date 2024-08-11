@@ -36,6 +36,6 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+  <a href="[https://www.microsoft.com/en-us/power-platform/products/power-bi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fprocessm.com%2Fpowerbi-logo%2F&psig=AOvVaw3W1hYsrPlozOuR8lSyfhn-&ust=1723475827674000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICduPWd7YcDFQAAAAAdAAAAABAE)" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Power_BI_Logo.png" alt="powerbi" width="40" height="40"/>
 
