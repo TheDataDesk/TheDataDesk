@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sirisha Padmasekhar</h1>
-<h4 align="center"> Exploring the world of data, One project at a time </h4>
+<h2 align="center"> Exploring the world of data, One project at a time </h2>
+<h3 align="center"> You would know me as The Data Desk </h3>
 
 --- 
 
