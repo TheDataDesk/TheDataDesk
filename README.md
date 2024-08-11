@@ -3,7 +3,7 @@
 
 --- 
 
-🎓 Graduated Masters in Computer science, focus on BigData and Artificial Intelligence
+🎓 Graduated Masters in Computer science, specialised in BigData and Artificial Intelligence
 
 🔭 Currently working on Exploring new ideas and developing projects
   
@@ -22,3 +22,10 @@
 <a href="https://medium.com/@sirishapadmasekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sirishapadmasekhar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sirishajpadmase1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sirishajpadmase1" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3> 
+height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</a>
