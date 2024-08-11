@@ -44,7 +44,7 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/stable/_images/sphx_glr_logos_003.png" alt="matplotlib" width="40" height="40"/>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <a href="https://seaborn.pydata.org/index.html#" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
@@ -56,7 +56,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <a href="https://xgboost.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+  <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/XGBoost_logo.png/800px-XGBoost_logo.png" alt="xgboost" width="40" height="40"/>
   </a>
 </div>
