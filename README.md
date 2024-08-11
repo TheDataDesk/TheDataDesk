@@ -17,6 +17,8 @@
 
 ⚡ Fun fact: I'm your eco-friendly travel guide! [Your Guide Here](https://github.com/TheDataDesk/GoCarbonNeutral)
 
+🎙 I'm also a podcaster, listen to my episodes [here](https://open.spotify.com/show/25yrMCp89hYWfSctVM6mHJ)
+
 
 <h3 align="left">Programming Languages:</h3>
 
