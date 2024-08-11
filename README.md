@@ -13,6 +13,8 @@
 
 📫 How to reach me: sirishajpadmasekhar@gmail.com
 
+📁 You can visit my portfolio website [here](https://thedatadesk.github.io/portfolio.github.io/index.html)
+
 ⚡ Fun fact: I'm your eco-friendly travel guide! [Your Guide Here](https://github.com/TheDataDesk/GoCarbonNeutral)
 
 
@@ -36,5 +38,5 @@
 <a href="https://medium.com/@sirishapadmasekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sirishapadmasekhar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sirishajpadmase1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sirishajpadmase1" height="30" width="40" /></a>
 </p>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
