@@ -12,6 +12,6 @@
 
 📫 How to reach me: sirishajpadmasekhar@gmail.com
 
-⚡ Fun fact: I’ve designed a sustainable travel route that helps people reduce their carbon footprint while exploring. Call me your eco-friendly travel guide! [Your Guide Here](https://github.com/TheDataDesk/GoCarbonNeutral)
+⚡ Fun fact: I'm your eco-friendly travel guide! [Your Guide Here](https://github.com/TheDataDesk/GoCarbonNeutral)
 
 
