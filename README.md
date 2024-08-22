@@ -8,7 +8,7 @@
 
 🔭 Currently working on Exploring new ideas and developing projects
   
-🌱 I’m currently learning Natural Language Processing
+🌱 I’m currently learning Robotics, Deep learning and Natural Language Processing
 
 💬 Ask me about Data Analysis,Data Visualization,Building Dashboards,ML Models,Computer Vision Applications
 
